@@ -5,7 +5,7 @@
 
 ![Pastana GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasPastana&show_icons=true&theme=radical)
 
-s
+
 
 ## Tecnologias que eu  uso
 
